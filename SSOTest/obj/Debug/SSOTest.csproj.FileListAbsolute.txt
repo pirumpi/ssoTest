@@ -1,0 +1,96 @@
+c:\users\pirum\documents\visual studio 2015\Projects\SSOTest\SSOTest\bin\roslyn\csc.exe
+c:\users\pirum\documents\visual studio 2015\Projects\SSOTest\SSOTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\pirum\documents\visual studio 2015\Projects\SSOTest\SSOTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\pirum\documents\visual studio 2015\Projects\SSOTest\SSOTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\pirum\documents\visual studio 2015\Projects\SSOTest\SSOTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\pirum\documents\visual studio 2015\Projects\SSOTest\SSOTest\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\pirum\documents\visual studio 2015\Projects\SSOTest\SSOTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\pirum\documents\visual studio 2015\Projects\SSOTest\SSOTest\bin\roslyn\System.Collections.Immutable.dll
+c:\users\pirum\documents\visual studio 2015\Projects\SSOTest\SSOTest\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\pirum\documents\visual studio 2015\Projects\SSOTest\SSOTest\bin\roslyn\vbc.exe
+c:\users\pirum\documents\visual studio 2015\Projects\SSOTest\SSOTest\bin\roslyn\VBCSCompiler.exe
+c:\users\pirum\documents\visual studio 2015\Projects\SSOTest\SSOTest\bin\roslyn\VBCSCompiler.exe.config
+c:\users\pirum\documents\visual studio 2015\Projects\SSOTest\SSOTest\bin\SSOTest.dll.config
+c:\users\pirum\documents\visual studio 2015\Projects\SSOTest\SSOTest\bin\SSOTest.dll
+c:\users\pirum\documents\visual studio 2015\Projects\SSOTest\SSOTest\bin\SSOTest.pdb
+c:\users\pirum\documents\visual studio 2015\Projects\SSOTest\SSOTest\bin\Antlr3.Runtime.dll
+c:\users\pirum\documents\visual studio 2015\Projects\SSOTest\SSOTest\bin\IdentityServer3.dll
+c:\users\pirum\documents\visual studio 2015\Projects\SSOTest\SSOTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\pirum\documents\visual studio 2015\Projects\SSOTest\SSOTest\bin\Microsoft.Owin.dll
+c:\users\pirum\documents\visual studio 2015\Projects\SSOTest\SSOTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\pirum\documents\visual studio 2015\Projects\SSOTest\SSOTest\bin\Microsoft.Web.Infrastructure.dll
+c:\users\pirum\documents\visual studio 2015\Projects\SSOTest\SSOTest\bin\Newtonsoft.Json.dll
+c:\users\pirum\documents\visual studio 2015\Projects\SSOTest\SSOTest\bin\Owin.dll
+c:\users\pirum\documents\visual studio 2015\Projects\SSOTest\SSOTest\bin\System.Web.Helpers.dll
+c:\users\pirum\documents\visual studio 2015\Projects\SSOTest\SSOTest\bin\System.Web.Mvc.dll
+c:\users\pirum\documents\visual studio 2015\Projects\SSOTest\SSOTest\bin\System.Web.Optimization.dll
+c:\users\pirum\documents\visual studio 2015\Projects\SSOTest\SSOTest\bin\System.Web.Razor.dll
+c:\users\pirum\documents\visual studio 2015\Projects\SSOTest\SSOTest\bin\System.Web.WebPages.Deployment.dll
+c:\users\pirum\documents\visual studio 2015\Projects\SSOTest\SSOTest\bin\System.Web.WebPages.dll
+c:\users\pirum\documents\visual studio 2015\Projects\SSOTest\SSOTest\bin\System.Web.WebPages.Razor.dll
+c:\users\pirum\documents\visual studio 2015\Projects\SSOTest\SSOTest\bin\WebGrease.dll
+c:\users\pirum\documents\visual studio 2015\Projects\SSOTest\SSOTest\bin\IdentityServer3.pdb
+c:\users\pirum\documents\visual studio 2015\Projects\SSOTest\SSOTest\bin\IdentityServer3.xml
+c:\users\pirum\documents\visual studio 2015\Projects\SSOTest\SSOTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\pirum\documents\visual studio 2015\Projects\SSOTest\SSOTest\bin\Microsoft.Owin.xml
+c:\users\pirum\documents\visual studio 2015\Projects\SSOTest\SSOTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\pirum\documents\visual studio 2015\Projects\SSOTest\SSOTest\bin\System.Web.Helpers.xml
+c:\users\pirum\documents\visual studio 2015\Projects\SSOTest\SSOTest\bin\System.Web.Mvc.xml
+c:\users\pirum\documents\visual studio 2015\Projects\SSOTest\SSOTest\bin\System.Web.Optimization.xml
+c:\users\pirum\documents\visual studio 2015\Projects\SSOTest\SSOTest\bin\System.Web.Razor.xml
+c:\users\pirum\documents\visual studio 2015\Projects\SSOTest\SSOTest\bin\System.Web.WebPages.xml
+c:\users\pirum\documents\visual studio 2015\Projects\SSOTest\SSOTest\bin\System.Web.WebPages.Deployment.xml
+c:\users\pirum\documents\visual studio 2015\Projects\SSOTest\SSOTest\bin\System.Web.WebPages.Razor.xml
+c:\users\pirum\documents\visual studio 2015\Projects\SSOTest\SSOTest\bin\Antlr3.Runtime.pdb
+c:\users\pirum\documents\visual studio 2015\Projects\SSOTest\SSOTest\bin\Newtonsoft.Json.xml
+c:\users\pirum\documents\visual studio 2015\Projects\SSOTest\SSOTest\obj\Debug\SSOTest.dll
+c:\users\pirum\documents\visual studio 2015\Projects\SSOTest\SSOTest\obj\Debug\SSOTest.pdb
+c:\users\pirum\documents\visual studio 2015\Projects\SSOTest\SSOTest\obj\Debug\SSOTest.csprojResolveAssemblyReference.cache
+C:\Users\pirum\Dropbox\ContractWork\3xLOGIC\SSO\SSOTest\SSOTest\bin\roslyn\csc.exe
+C:\Users\pirum\Dropbox\ContractWork\3xLOGIC\SSO\SSOTest\SSOTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pirum\Dropbox\ContractWork\3xLOGIC\SSO\SSOTest\SSOTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pirum\Dropbox\ContractWork\3xLOGIC\SSO\SSOTest\SSOTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pirum\Dropbox\ContractWork\3xLOGIC\SSO\SSOTest\SSOTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pirum\Dropbox\ContractWork\3xLOGIC\SSO\SSOTest\SSOTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pirum\Dropbox\ContractWork\3xLOGIC\SSO\SSOTest\SSOTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pirum\Dropbox\ContractWork\3xLOGIC\SSO\SSOTest\SSOTest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pirum\Dropbox\ContractWork\3xLOGIC\SSO\SSOTest\SSOTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pirum\Dropbox\ContractWork\3xLOGIC\SSO\SSOTest\SSOTest\bin\roslyn\vbc.exe
+C:\Users\pirum\Dropbox\ContractWork\3xLOGIC\SSO\SSOTest\SSOTest\bin\roslyn\VBCSCompiler.exe
+C:\Users\pirum\Dropbox\ContractWork\3xLOGIC\SSO\SSOTest\SSOTest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pirum\Dropbox\ContractWork\3xLOGIC\SSO\SSOTest\SSOTest\bin\SSOTest.dll.config
+C:\Users\pirum\Dropbox\ContractWork\3xLOGIC\SSO\SSOTest\SSOTest\bin\SSOTest.dll
+C:\Users\pirum\Dropbox\ContractWork\3xLOGIC\SSO\SSOTest\SSOTest\bin\SSOTest.pdb
+C:\Users\pirum\Dropbox\ContractWork\3xLOGIC\SSO\SSOTest\SSOTest\bin\Antlr3.Runtime.dll
+C:\Users\pirum\Dropbox\ContractWork\3xLOGIC\SSO\SSOTest\SSOTest\bin\IdentityServer3.dll
+C:\Users\pirum\Dropbox\ContractWork\3xLOGIC\SSO\SSOTest\SSOTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pirum\Dropbox\ContractWork\3xLOGIC\SSO\SSOTest\SSOTest\bin\Microsoft.Owin.dll
+C:\Users\pirum\Dropbox\ContractWork\3xLOGIC\SSO\SSOTest\SSOTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\pirum\Dropbox\ContractWork\3xLOGIC\SSO\SSOTest\SSOTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pirum\Dropbox\ContractWork\3xLOGIC\SSO\SSOTest\SSOTest\bin\Newtonsoft.Json.dll
+C:\Users\pirum\Dropbox\ContractWork\3xLOGIC\SSO\SSOTest\SSOTest\bin\Owin.dll
+C:\Users\pirum\Dropbox\ContractWork\3xLOGIC\SSO\SSOTest\SSOTest\bin\System.Web.Helpers.dll
+C:\Users\pirum\Dropbox\ContractWork\3xLOGIC\SSO\SSOTest\SSOTest\bin\System.Web.Mvc.dll
+C:\Users\pirum\Dropbox\ContractWork\3xLOGIC\SSO\SSOTest\SSOTest\bin\System.Web.Optimization.dll
+C:\Users\pirum\Dropbox\ContractWork\3xLOGIC\SSO\SSOTest\SSOTest\bin\System.Web.Razor.dll
+C:\Users\pirum\Dropbox\ContractWork\3xLOGIC\SSO\SSOTest\SSOTest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\pirum\Dropbox\ContractWork\3xLOGIC\SSO\SSOTest\SSOTest\bin\System.Web.WebPages.dll
+C:\Users\pirum\Dropbox\ContractWork\3xLOGIC\SSO\SSOTest\SSOTest\bin\System.Web.WebPages.Razor.dll
+C:\Users\pirum\Dropbox\ContractWork\3xLOGIC\SSO\SSOTest\SSOTest\bin\WebGrease.dll
+C:\Users\pirum\Dropbox\ContractWork\3xLOGIC\SSO\SSOTest\SSOTest\bin\IdentityServer3.pdb
+C:\Users\pirum\Dropbox\ContractWork\3xLOGIC\SSO\SSOTest\SSOTest\bin\IdentityServer3.xml
+C:\Users\pirum\Dropbox\ContractWork\3xLOGIC\SSO\SSOTest\SSOTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pirum\Dropbox\ContractWork\3xLOGIC\SSO\SSOTest\SSOTest\bin\Microsoft.Owin.xml
+C:\Users\pirum\Dropbox\ContractWork\3xLOGIC\SSO\SSOTest\SSOTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\pirum\Dropbox\ContractWork\3xLOGIC\SSO\SSOTest\SSOTest\bin\System.Web.Helpers.xml
+C:\Users\pirum\Dropbox\ContractWork\3xLOGIC\SSO\SSOTest\SSOTest\bin\System.Web.Mvc.xml
+C:\Users\pirum\Dropbox\ContractWork\3xLOGIC\SSO\SSOTest\SSOTest\bin\System.Web.Optimization.xml
+C:\Users\pirum\Dropbox\ContractWork\3xLOGIC\SSO\SSOTest\SSOTest\bin\System.Web.Razor.xml
+C:\Users\pirum\Dropbox\ContractWork\3xLOGIC\SSO\SSOTest\SSOTest\bin\System.Web.WebPages.xml
+C:\Users\pirum\Dropbox\ContractWork\3xLOGIC\SSO\SSOTest\SSOTest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\pirum\Dropbox\ContractWork\3xLOGIC\SSO\SSOTest\SSOTest\bin\System.Web.WebPages.Razor.xml
+C:\Users\pirum\Dropbox\ContractWork\3xLOGIC\SSO\SSOTest\SSOTest\bin\Antlr3.Runtime.pdb
+C:\Users\pirum\Dropbox\ContractWork\3xLOGIC\SSO\SSOTest\SSOTest\bin\Newtonsoft.Json.xml
+C:\Users\pirum\Dropbox\ContractWork\3xLOGIC\SSO\SSOTest\SSOTest\obj\Debug\SSOTest.csprojResolveAssemblyReference.cache
+C:\Users\pirum\Dropbox\ContractWork\3xLOGIC\SSO\SSOTest\SSOTest\obj\Debug\SSOTest.dll
+C:\Users\pirum\Dropbox\ContractWork\3xLOGIC\SSO\SSOTest\SSOTest\obj\Debug\SSOTest.pdb
